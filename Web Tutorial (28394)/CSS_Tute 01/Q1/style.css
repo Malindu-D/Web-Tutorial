@@ -1,0 +1,23 @@
+body {
+  background-image: url(Css1-img1.jpg);
+  background-size: cover;
+}
+
+h1 {
+  color: red;
+}
+.quote {
+  width: 20%;
+  margin-top: 25vh;
+  padding: 5%;
+  background: white;
+  opacity: 0.4;
+}
+.content {
+  font-size: 30px;
+  text-align: left;
+  color: blue;
+}
+.author {
+  float: right;
+}
